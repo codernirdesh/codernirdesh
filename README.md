@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
 # Who am I?
-I am a self-taught developer with over 5+ years of experience in various technological fields. I'm an individual with a great passion for software development and programming who is aiming higher to be successful as a tech entrepreneur. I am on my twenties and currently pursuing a bachelor's degree in science with majors in computer science and information technology. I have been developing Mobile application software and web applications for more than 4 years now.
+I am a self-taught developer with over 3+ years of experience in various technological fields. I'm an individual with a great passion for software development and programming who is aiming higher to be successful as a tech entrepreneur. I am on my twenties and currently pursuing a bachelor's degree in science with majors in computer science and information technology. I have been developing Mobile application software and web applications for more than 4 years now.
 
 
 I currently support a number of brands, companies, and web projects. I have the ability to combine a unique set of skills and experiences to your business in very short notice. I am passionate about what I do to ensure my clients are always successful.
